@@ -23,14 +23,8 @@
 ---
 
 ## 🌐 Connect with Me  
-- [LinkedIn](www.linkedin.com/in/kaviraj-thangapandian-62868a323
--
-- )  
-- [Portfolio](www.linkedin.com/in/kaviraj-thangapandian-62868a323
--
-- )  
-- [Email](kaviraj.thangapandian@gmail.com
--
-- )  
+- [LinkedIn](www.linkedin.com/in/kaviraj-thangapandian-62868a323)  
+- [Portfolio](www.linkedin.com/in/kaviraj-thangapandian-62868a323)  
+- [Email](kaviraj.thangapandian@gmail.com)  
 
 ✨ *"Code. Learn. Build. Repeat."*  
