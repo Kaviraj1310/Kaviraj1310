@@ -6,34 +6,74 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7FDBFF&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+%2F+ML+Model+Development+%F0%9F%A7%A0;Full+Stack+Web+Applications+%F0%9F%8C%90;Turning+Ideas+Into+Reality+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%93%88)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7FDBFF&center=true&vCenter=true&random=false&width=650&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+%2F+ML+Model+Development+%F0%9F%A7%A0;Full+Stack+Web+Applications+%F0%9F%8C%90;2nd+Year+CSE+(AI+%26+ML)+%40+SRM+Ramapuram;Turning+Ideas+Into+Reality+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%93%88)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🖥️ About Me
 
-```python
-class KavirajThangapandian:
-    def __init__(self):
-        self.name        = "Kaviraj Thangapandian"
-        self.role        = "Computer Science Engineer (AI & ML)"
-        self.location    = "India 🇮🇳"
-        self.focus       = ["AI/ML", "Full Stack Dev", "FinTech", "Intelligent Systems"]
-        self.languages   = ["Python", "JavaScript", "Java", "C++", "TypeScript"]
-        self.frameworks  = ["React", "Node.js", "TensorFlow", "Scikit-learn"]
-        self.database    = ["MySQL", "MongoDB"]
-        self.tools       = ["Git", "Docker", "VS Code", "Jupyter"]
-        self.learning    = "LLMs, Agentic AI, and Cloud Architecture"
-        self.fun_fact    = "I debug code faster with coffee ☕"
+<table>
+<tr>
+<td width="55%" valign="top">
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together 🚀")
-
-me = KavirajThangapandian()
-me.say_hi()
+```bash
+┌──(kaviraj㉿dev)-[~/portfolio]
+└─$ whoami
 ```
+```
+  Name       : Kaviraj Thangapandian
+  Role       : CSE Engineer (AI & ML)
+  University : SRM IST, Ramapuram
+  Year       : 2nd Year (2024 – 2028)
+  Location   : India 🇮🇳
+```
+
+```bash
+┌──(kaviraj㉿dev)-[~/portfolio]
+└─$ cat skills.json
+```
+```json
+{
+  "focus"      : ["AI/ML", "Full Stack", "FinTech"],
+  "languages"  : ["Python", "Java", "C++", "JS", "TS"],
+  "frameworks" : ["React", "Node.js", "TensorFlow"],
+  "databases"  : ["MySQL", "MongoDB"],
+  "tools"      : ["Git", "Docker", "Jupyter", "VS Code"],
+  "learning"   : "LLMs · Agentic AI · Cloud Arch"
+}
+```
+
+```bash
+┌──(kaviraj㉿dev)-[~/portfolio]
+└─$ cat hobbies.txt
+```
+```
+⚽ Football     🏸 Badminton
+🎵 Music        📚 Reading Books
+```
+
+```bash
+┌──(kaviraj㉿dev)-[~/portfolio]
+└─$ echo "Let's build something amazing! 🚀"
+
+  Let's build something amazing! 🚀
+```
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="coding gif" />
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kaviraj1310&color=7fdbff&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/Kaviraj1310?style=flat-square&color=7fdbff&labelColor=1a1b27&label=Followers)](https://github.com/Kaviraj1310?tab=followers)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -61,6 +101,39 @@ me.say_hi()
 </td>
 </tr>
 </table>
+
+---
+
+## 🏅 Licenses & Certifications
+
+<div align="center">
+
+| 🏢 Issuer | 📜 Certification | 📅 Issued | 🔗 |
+|:---:|:---|:---:|:---:|
+| 🔵 **IBM** | Getting Started with Artificial Intelligence | Jan 2026 | [View](https://www.credly.com/badges/524ee113-6777-4af9-a3dd-fa17d56856c2) |
+| 🟢 **Deloitte** | Technology Job Simulation (Forage) | Dec 2025 | [View](https://www.theforage.com/simulations/deloitte-au/technology-fz0w) |
+| 🔴 **Oracle** | Cloud Infrastructure AI Foundations | Nov 2025 | Certified |
+| 🏆 **SRM IST** | Smart India Hackathon 2025 — Round 1 Qualifier | Sep 2025 | Qualified |
+| 🔷 **TCS iON** | Career Edge — Young Professional | Sep 2025 | Certified |
+| 🎓 **IIT Madras (NPTEL)** | Introduction to Operating Systems | Sep 2025 | Certified |
+| 🟠 **MongoDB** | MongoDB Basics | Jun 2025 | Certified |
+| 💻 **Codekaro** | How To CSS | Feb 2025 | Certified |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![IBM](https://img.shields.io/badge/IBM-AI_Certified-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-Cloud_AI_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Deloitte](https://img.shields.io/badge/Deloitte-Tech_Simulation-86BC25?style=for-the-badge&logoColor=white)
+![TCS](https://img.shields.io/badge/TCS_iON-Young_Professional-6E2B8B?style=for-the-badge&logoColor=white)
+![NPTEL](https://img.shields.io/badge/NPTEL-IIT_Madras-FF6B00?style=for-the-badge&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Basics_Certified-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SIH](https://img.shields.io/badge/SIH_2025-Round_1_Qualifier-FFD700?style=for-the-badge&logoColor=black)
+
+</div>
 
 ---
 
@@ -111,7 +184,6 @@ me.say_hi()
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Kaviraj1310&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" height="180" alt="GitHub Stats" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaviraj1310&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
 
 </div>
@@ -140,7 +212,7 @@ me.say_hi()
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <div align="center">
 
@@ -149,17 +221,6 @@ me.say_hi()
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaviraj1310/Kaviraj1310/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kaviraj1310/Kaviraj1310/output/pacman-contribution-graph.svg" width="95%" />
 </picture>
-
-</div>
-
----
-
-## 🎯 Profile Views & Visitors
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Kaviraj1310&color=7fdbff&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Kaviraj1310?style=for-the-badge&color=7fdbff&labelColor=1a1b27)](https://github.com/Kaviraj1310?tab=followers)
 
 </div>
 
