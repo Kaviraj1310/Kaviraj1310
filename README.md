@@ -1,5 +1,5 @@
 <!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                     KAVIRAJ THANGAPANDIAN — GITHUB PROFILE README                    -->
+<!--                  KAVIRAJ THANGAPANDIAN — GITHUB PROFILE README                   -->
 <!-- ████████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
@@ -30,64 +30,25 @@
 
 ---
 
-## 🖥️ `$ whoami`
+## 🖥️ About Me
 
-```bash
-┌──(kaviraj㉿dev)-[~/universe]
-└─$ cat profile.json
-{
-  "name"        : "Kaviraj Thangapandian",
-  "role"        : "CSE Engineer — AI & ML Specialization",
-  "university"  : "SRM Institute of Science & Technology, Ramapuram",
-  "year"        : "2nd Year (2024 – 2028)",
-  "location"    : "India 🇮🇳",
-  "status"      : "Open to Internships & Collaborations ✅",
-  "email"       : "kaviraj.thangapandian@gmail.com",
-  "superpower"  : "Turning coffee into intelligent systems ☕🤖"
-}
-```
+<img align="right" src="https://media1.tenor.com/m/-UygBh3nnfEAAAAd/coding.gif" width="290" style="border-radius:14px; margin-left:24px; margin-bottom:10px"/>
 
-```bash
-┌──(kaviraj㉿dev)-[~/universe]
-└─$ cat skills.json
-{
-  "focus"      : ["AI/ML", "Full Stack", "FinTech", "Agentic AI"],
-  "languages"  : ["Python 🐍", "Java ☕", "C++", "JavaScript", "TypeScript"],
-  "frameworks" : ["React ⚛️", "Node.js", "TensorFlow", "Scikit-learn", "FastAPI"],
-  "databases"  : ["MySQL", "MongoDB", "PostgreSQL"],
-  "tools"      : ["Git", "Docker 🐳", "Jupyter", "VS Code", "Linux"],
-  "ai_stack"   : ["LangChain", "Hugging Face 🤗", "OpenAI API", "LlamaIndex"],
-  "learning"   : "LLMs · Agentic AI · Cloud Architecture · MLOps · RAG"
-}
-```
+👋 Hey! I'm **Kaviraj Thangapandian**, a passionate **AI/ML Engineer** and **Full Stack Developer** from India 🇮🇳
 
-```bash
-┌──(kaviraj㉿dev)-[~/universe]
-└─$ ./run_goals.sh
-  [✔]  Build production-ready AI/ML models
-  [✔]  Master Full Stack Development
-  [✔]  Win Hackathons
-  [▶]  Explore LLMs & Agentic AI        ← in progress 🔥
-  [▶]  Secure top-tier internship        ← in progress 💼
-  [ ]  Contribute to Open Source         ← up next
-  [ ]  Launch a FinTech SaaS product     ← planned
-  [ ]  Publish AI research paper         ← dream goal
-```
+🎓 Currently pursuing **CSE with AI & ML specialization** at SRM Institute of Science & Technology, Ramapuram (2024–2028)
 
----
+🧠 I love turning complex ideas into intelligent, production-ready systems — bridging the gap between **research and real-world deployment**
 
-## ⚡ About Me
+🚀 Actively exploring **Large Language Models**, **RAG pipelines**, and **Multi-Agent AI frameworks** to build the next generation of smart applications
 
-<img align="right" src="https://media1.tenor.com/m/-UygBh3nnfEAAAAd/coding.gif" width="300" style="border-radius:12px; margin-left:20px"/>
+🏆 Passionate **hackathon competitor** — I thrive under pressure, ship fast, and love collaborative problem-solving
 
-- 🧠 **AI/ML Engineer** passionate about building real-world intelligent systems
-- 🎓 Studying **CSE with AI & ML specialization** at SRM IST Ramapuram
-- 💡 Love bridging **research → production** with clean, deployable code
-- 🏆 Active **hackathon competitor** — compete, build, iterate, win
-- 🔬 Currently diving deep into **LLMs, RAG pipelines & Multi-Agent frameworks**
-- ♟️ Chess player — pattern recognition is my superpower
-- ☕ Coffee-powered developer — `npm install coffee --save`
-- 💬 Ask me about **Python, AI/ML, React, or anything tech!**
+♟️ Chess enthusiast — pattern recognition is my coding superpower
+
+☕ Powered by coffee and curiosity — `npm install coffee --save-dev`
+
+📬 Always open to **internships, collabs, and interesting conversations** — let's connect!
 
 <br clear="right"/>
 
@@ -97,14 +58,14 @@
 
 <div align="center">
 
-### Languages
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FFFF)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00FFFF)
 ![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00FFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00FFFF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00FFFF)
 
-### AI / ML Stack
+### 🤖 AI / ML Stack
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=00FFFF)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=00FFFF)
 ![scikit--learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=00FFFF)
@@ -113,7 +74,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=00FFFF)
 ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=00FFFF)
 
-### Web & Full Stack
+### 🌐 Web & Full Stack
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00FFFF)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00FFFF)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00FFFF)
@@ -121,9 +82,10 @@
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00FFFF)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=00FFFF)
 
-### Databases & DevOps
+### 🗄️ Databases & DevOps
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00FFFF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00FFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00FFFF)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00FFFF)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00FFFF)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00FFFF)
@@ -142,10 +104,10 @@
 | 🔭 Building | 🌱 Learning | ⚡ Exploring |
 |:---|:---|:---|
 | AI/ML Production Models | Large Language Models | Agentic AI Systems |
-| Full Stack Web Apps | Cloud Architecture (AWS) | MLOps & CI/CD |
+| Full Stack Web Apps | Cloud Architecture (AWS) | MLOps & CI/CD Pipelines |
 | FinTech Prototypes | RAG Pipelines | Multi-Agent Frameworks |
-| Hackathon Projects | Prompt Engineering | Open Source Contributions |
-| API-first Backends | System Design Patterns | LangChain / LlamaIndex |
+| Hackathon Projects | Prompt Engineering | LangChain / LlamaIndex |
+| API-first Backends | System Design Patterns | Open Source Contributions |
 
 </div>
 
@@ -172,7 +134,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kaviraj1310&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff&border_color=00FFFF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kaviraj1310&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff" height="180"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaviraj1310&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00FFFF&text_color=ffffff" height="180"/>
 
@@ -187,16 +149,6 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaviraj1310&theme=react-dark&hide_border=true&area=true&radius=8&color=00FFFF&line=00FFFF&point=ffffff" width="95%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kaviraj1310&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="95%"/>
 
 </div>
 
@@ -218,9 +170,7 @@
 
 ## 🎮 Hobbies & Interests
 
-```bash
-┌──(kaviraj㉿dev)-[~/life]
-└─$ cat hobbies.txt
+```
   🏆  Hackathons    |  Compete · Build · Win · Repeat
   ♟️   Chess         |  Pattern recognition & deep thinking
   🎮  Gaming        |  Strategy & FPS — competitive mindset
@@ -247,6 +197,8 @@
 <div align="center">
 
 > 💡 *"The best way to predict the future is to build it."*
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaviraj-thangapandian/)
 [![Email Me](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaviraj.thangapandian@gmail.com)
