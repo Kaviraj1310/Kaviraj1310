@@ -22,7 +22,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FFFF)](https://www.linkedin.com/in/kaviraj-thangapandian/)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FFFF)](https://github.com/Kaviraj1310)
-[![HackerRank](https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=00FFFF)](https://www.hackerrank.com/profile/kaviraj_thangap1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=00FFFF)](https://leetcode.com/u/kavirajt1310/)
 [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00FFFF)](mailto:kaviraj.thangapandian@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Kaviraj1310&color=00FFFF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Kaviraj1310)
 
@@ -119,7 +119,7 @@
 
 | 🏆 Certification | 🔗 Platform | 📅 Status |
 |:---|:---|:---|
-| ⭐ Problem Solving (Basic) | HackerRank | ✅ Verified |
+| ⭐ Problem Solving | LeetCode | ✅ Active |
 | 🐍 Python (Basic + Intermediate) | HackerRank | ✅ Verified |
 | 🤖 AI / ML Foundations | Self-Study | ✅ Complete |
 | 🏆 Hackathon Competitor | Various Platforms | 🔥 Active |
@@ -202,7 +202,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaviraj-thangapandian/)
 [![Email Me](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaviraj.thangapandian@gmail.com)
-[![HackerRank](https://img.shields.io/badge/Follow_on_HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/kaviraj_thangap1)
+[![LeetCode](https://img.shields.io/badge/Solve_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kavirajt1310/)
 [![GitHub Follow](https://img.shields.io/github/followers/Kaviraj1310?style=for-the-badge&color=00FFFF&labelColor=0d1117&label=FOLLOW+ON+GITHUB)](https://github.com/Kaviraj1310)
 
 </div>
